@@ -1,0 +1,42 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Dunyoni shiori",
+      "description": "Doctor Mustafo Mahmud deydi:",
+      "src": "https://islom.uz/img/section/2021/12/1639737420.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Maqolalar",
+      "description": "Bolalarga islom ta'limoti hodisalarini o'rganish",
+      "src": "https://islom.uz/img/section/2021/12/1639737420.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Maqolalar",
+      "description": "Iyd-ul-Adha, Qurbonlik bayrami",
+      "src": "https://islom.uz/img/section/2021/12/1639737420.jpg"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Dunyoni shiori",
+      "description": "Doctor Mustafo Mahmud deydi:",
+      "src": "https://islom.uz/img/section/2021/12/1640147159.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Yangiliklar",
+      "description": "Bolalarga islom ta'limoti hodisalarini o'rganish",
+      "src": "https://islom.uz/img/section/2021/12/1640090241.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Maqolalar",
+      "description": "Iyd-ul-Adha, Qurbonlik bayrami",
+      "src": "https://islom.uz/img/section/2021/12/1640075379.jpg"
+    }
+  ]
+}

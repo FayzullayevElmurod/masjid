@@ -1,0 +1,34 @@
+{
+  "about": [
+    {
+      "id": 1,
+      "title": "Haki Termizy",
+      "description": "Lorem ipsum dolor sit amet, coteudtu adipisicing elit, sed do eiusmod tem por incididunt ut labore et.",
+      "src": "https://xabar.uz/static/crop/3/5/736_736_95_3540221406.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Haki Termizy",
+      "description": "Lorem ipsum dolor sit amet, coteudtu adipisicing elit, sed do eiusmod tem por incididunt ut labore et.",
+      "src": "https://storage.kun.uz/source/4/W03IpQObpyx-UuGoAAHUby6eeSDjSJas.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Haki Termizy",
+      "description": "Lorem ipsum dolor sit amet, coteudtu adipisicing elit, sed do eiusmod tem por incididunt ut labore et.",
+      "src": "https://avatars.mds.yandex.net/i?id=f27106b2c0d31c6747dcbd4503c96068-4376415-images-thumbs&ref=rim&n=33&w=225&h=150"
+    },
+    {
+      "id": 4,
+      "title": "Haki Termizy",
+      "description": "Lorem ipsum dolor sit amet, coteudtu adipisicing elit, sed do eiusmod tem por incididunt ut labore et.",
+      "src": "https://hidoyat.uz/wp-content/uploads/2019/12/006.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Haki Termizy",
+      "description": "Lorem ipsum dolor sit amet, coteudtu adipisicing elit, sed do eiusmod tem por incididunt ut labore et.",
+      "src": "https://hidoyat.uz/wp-content/uploads/2019/12/011.jpg"
+    }
+  ]
+}
